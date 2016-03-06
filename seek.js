@@ -1,6 +1,7 @@
 ﻿/**
  * seekJs - 前端轻量级模块化组件
  * Created by likaituan on 14/8/18.
+ * repaire and use gao and li
  */
 
 ~function (window, undefined) {
